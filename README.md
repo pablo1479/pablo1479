@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm [Pablo]! 👋
 
 ## About Me
 I'm currently a Computer Engineering major at San Diego State University with a strong passion for technology and coding. My journey in the tech world is fueled by my proficiency in languages like C, C++, Python, Verilog, and Assembly. I'm always keen on collaborating with others and believe that teamwork is key to achieving groundbreaking innovations.
