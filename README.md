@@ -1,4 +1,4 @@
-# Hello, I'm [Pablo]! 👋
+# Hello, I'm Pablo! 👋
 
 ## About Me
 I'm currently a Computer Engineering major at San Diego State University with a strong passion for technology and coding. My journey in the tech world is fueled by my proficiency in languages like C, C++, Python, Verilog, and Assembly. I'm always keen on collaborating with others and believe that teamwork is key to achieving groundbreaking innovations.
@@ -16,6 +16,6 @@ When I'm not coding or collaborating on tech projects, I enjoy:
 ## Let's Connect!
 I'm always open to new ideas and projects. Feel free to reach out if you're interested in collaborating or just want to chat about technology and films!
 
-- [www.linkedin.com/in/pablo-olivares-3aa043191]
-- [pablo_olivares@ymail.com]
+- www.linkedin.com/in/pablo-olivares-3aa043191
+- pablo_olivares@ymail.com
 
