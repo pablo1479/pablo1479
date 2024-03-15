@@ -16,6 +16,6 @@ When I'm not coding or collaborating on tech projects, I enjoy:
 ## Let's Connect!
 I'm always open to new ideas and projects. Feel free to reach out if you're interested in collaborating or just want to chat about technology and films!
 
-- www.linkedin.com/in/pablo-olivares-3aa043191
+- www.linkedin.com/in/pabloolivaressdsu
 - pablo_olivares@ymail.com
 
